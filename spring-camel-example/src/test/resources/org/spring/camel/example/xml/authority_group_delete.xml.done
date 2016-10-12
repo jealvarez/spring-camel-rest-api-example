@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Records>
+  <Record>
+    <Name>AUTHORITY</Name>
+    <Modifications>
+      <Modification>
+        <Action>DELETE</Action>
+        <Fields>
+          <Field>
+            <Name>CODE</Name>
+            <Value>101</Value>
+          </Field>
+          <Field>
+            <Name>NAME</Name>
+            <Value>AUTHORITY-TEST-DELETE</Value>
+          </Field>
+          <Field>
+            <Name>DESCRIPTION</Name>
+            <Value>AUTHORITY-DESCRIPTION-DELETE</Value>
+          </Field>
+          <Field>
+            <Name>ENABLED</Name>
+            <Value>0</Value>
+          </Field>
+        </Fields>
+      </Modification>
+    </Modifications>
+  </Record>
+</Records>
